@@ -1,0 +1,4 @@
+[2gfile]
+rw=read
+size=2048m
+directory=/tmp/2g

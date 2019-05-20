@@ -1,0 +1,6 @@
+[1wfiles]
+rw=read
+size=40000k
+bs=4k
+nrfiles=10000
+directory=/external/10000files

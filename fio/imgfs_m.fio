@@ -1,0 +1,5 @@
+[2gfile]
+rw=randread
+size=2048m
+directory=/img/2g
+ioengine=mmap

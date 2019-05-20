@@ -1,0 +1,7 @@
+[2gfile]
+rw=read
+size=2048m
+bs=4k
+nrfiles=1
+directory=./2g
+

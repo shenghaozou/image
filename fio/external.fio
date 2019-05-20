@@ -1,0 +1,4 @@
+[2gfile]
+rw=randread
+size=2048m
+directory=/external/2g

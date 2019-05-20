@@ -1,0 +1,6 @@
+[1wfiles]
+directory=/tmp/data
+nrfiles=10000
+size=40000k
+bs=4k
+rw=read
