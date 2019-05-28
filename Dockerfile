@@ -15,8 +15,10 @@ RUN pip install faulthandler
 # RUN mkdir -p /bin/2g
 # ADD 2g /bin/2g
 # ADD 10000files /bin/10000files
+ADD install.sh /tmp/
+RUN bash /tmp/install.sh -b -p /root/anaconda3
 ADD fio /root/ 
 ADD mmap_test.c /root/
 ADD mmap_range.c /root/
 # ADD package /bin/package/
-# ADD package3 /bin/package3/
+ADD package3 /bin/package3/
