@@ -21,4 +21,4 @@ ADD fio /root/
 ADD mmap_test.c /root/
 ADD mmap_range.c /root/
 # ADD package /bin/package/
-ADD package3 /bin/package3/
+# ADD package3 /bin/package3/
