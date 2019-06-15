@@ -1,3 +1,4 @@
+python3 -c "print(\"pre-heat\")"
 python3 mmap_imgfs.py
 python3 mmap_gofer.py
 
